@@ -60,7 +60,8 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharitap9803&" alt="dharitap9803" />
+  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=dharitap9803&](https://github-readme-streak-stats.herokuapp.com/?user=dharitap9803&theme=dark
+)" alt="dharitap9803" />
 </p>
 
 
