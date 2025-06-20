@@ -1,4 +1,4 @@
-<h1 align="center">� Hi 👋, I'm Dharita Patel</h1>
+<h1 align="center">Hi 👋, I'm Dharita Patel</h1>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
