@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dharita Patel</h1>
+<h1 align="center">� Hi 👋, I'm Dharita Patel</h1>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dharitap9803" alt="dharitap9803" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dharitap9803&theme=darkhub" alt="dharitap9803 trophies" />
   </a> 
 </p>
 
 - 🌱 I’m currently learning **React.js** and **Data Structures and Algorithms**
 
-- 📫 How to reach me **dharitapatel.098@gmail.com**
+- 📫 How to reach me: **dharitapatel.098@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,13 +52,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharitap9803&show_icons=true&locale=en&layout=compact" alt="dharitap9803" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharitap9803&show_icons=true&locale=en&layout=compact&theme=radical" alt="dharitap9803 top languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharitap9803&show_icons=true&locale=en" alt="dharitap9803" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharitap9803&show_icons=true&locale=en&theme=radical" alt="dharitap9803 stats" />
 </p>
-
-
 
 
