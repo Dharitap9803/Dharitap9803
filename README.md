@@ -6,9 +6,9 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **React.js** and **Data Structures and Algorithms**
+<p>🌱 I’m currently learning <b>React.js</b> and <b>Data Structures and Algorithms</b></p>
 
-- 📫 How to reach me: **dharitapatel.098@gmail.com**
+<p>📫 How to reach me: <b>dharitapatel.098@gmail.com</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
