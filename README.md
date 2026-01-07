@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dharitap9803&theme=darkhub&margin-w=15&margin-h=15" alt="dharitap9803 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dharitap9803&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1" alt="dharitap9803 trophies" />
   </a> 
 </p>
 
@@ -63,9 +63,9 @@
 </a>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharitap9803&show_icons=true&locale=en&layout=compact&theme=radical" alt="dharitap9803 top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharitap9803&layout=compact&theme=radical&langs_count=8" alt="dharitap9803 top languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharitap9803&show_icons=true&locale=en&theme=radical" alt="dharitap9803 stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharitap9803&show_icons=true&theme=radical&rank_icon=github" alt="dharitap9803 stats" />
 </p>
