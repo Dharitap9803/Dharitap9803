@@ -39,7 +39,7 @@ Currently learning **React.js**
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharitap9803&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharitap9803&layout=compact&theme=radical&hide_border=true)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharitap9803&show_icons=true&theme=radical)
