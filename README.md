@@ -83,7 +83,9 @@ Currently learning **React.js**
 ---
 
 ## 🎓 Education
+
 <small>
+  
 **Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
 Indus Institute Of Technology & Engineering  
 September 2021 – May 2025
