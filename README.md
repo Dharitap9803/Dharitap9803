@@ -3,14 +3,16 @@
 </p>
 
 # Hi, I'm Dharita Patel
+
 <small>🚀 Full Stack Developer (React | Node.js | MongoDB) | Machine Learning Enthusiast</small>
 
 ---
 
 ## 💡 About Me
 <small>
-I'm an engineering student passionate about building **full-stack web applications** and exploring the world of **machine learning** and **data-driven solutions**.  
-Currently learning **React.js**
+  
+I'm an engineering student passionate about building **full-stack web applications** and exploring the world of **machine learning** and **data-driven solutions**. Currently learning **React.js**
+
 </small>
 
 ---
