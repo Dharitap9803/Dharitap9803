@@ -1,6 +1,6 @@
-#  Hi, I'm Dharita Patel
+# 👋 Hi, I'm Dharita Patel  
 
-🚀 Full Stack Developer (React | Node.js | MongoDB) | Machine Learning Enthusiast 
+🚀 Full Stack Developer (React | Node.js | MongoDB) | Machine Learning Enthusiast  
 
 ---
 
@@ -8,7 +8,7 @@
 
 I'm an engineering student passionate about building **full-stack web applications** and exploring the world of **machine learning** and **data-driven solutions**.
 
-Currently learning **React.js**
+Currently learning **React.js** and improving my problem-solving skills.
 
 ---
 
@@ -39,10 +39,29 @@ Currently learning **React.js**
 
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharitap9803&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Dharitap9803&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Dharitap9803&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharitap9803&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharitap9803&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Dharitap9803&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Dharitap9803&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
@@ -69,3 +88,7 @@ September 2021 – May 2025
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" />
 </a>
 </p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Dharitap9803&icon=0&color=0)](https://visitcount.itsvg.in)
