@@ -40,15 +40,27 @@ Currently learning **React.js**
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dharitap9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dharitap9803&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharitap9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dharitap9803&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dharitap9803&theme=radical)
+<table>
+<tr>
+<td width="50%">
+
+| |
+|---|
+| ![](https://github-readme-stats.vercel.app/api?username=Dharitap9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> |
+| ![](https://nirzak-streak-stats.vercel.app/?user=Dharitap9803&theme=dark&hide_border=false)<br/> |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharitap9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
+</td>
 
----
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="410"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🎓 Education
 
