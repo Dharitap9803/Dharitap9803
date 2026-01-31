@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dharita Patel
+#  Hi, I'm Dharita Patel
 
 🚀 Full Stack Developer (React | Node.js | MongoDB) | Machine Learning Enthusiast 
 
