@@ -4,11 +4,11 @@
 
 # Hi, I'm Dharita Patel
 
-<small>🚀 Full Stack Developer (React | Node.js | MongoDB) | Machine Learning Enthusiast</small>
+<small> Full Stack Developer (React | Node.js | MongoDB) | Machine Learning Enthusiast</small>
 
 ---
 
-## 💡 About Me
+##  About Me
 <small>
   
 I'm an engineering student passionate about building **full-stack web applications** and exploring the world of **machine learning** and **data-driven solutions**. Currently learning **React.js**
@@ -17,7 +17,7 @@ I'm an engineering student passionate about building **full-stack web applicatio
 
 ---
 
-## 🌐 Languages
+##  Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +27,7 @@ I'm an engineering student passionate about building **full-stack web applicatio
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -52,7 +52,7 @@ I'm an engineering student passionate about building **full-stack web applicatio
 
 ---
 
-## 🔥 Projects
+##  Projects
 <small>
 
 | Project | Description |
@@ -64,7 +64,7 @@ I'm an engineering student passionate about building **full-stack web applicatio
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <table>
 <tr>
 <td width="50%">
@@ -84,7 +84,7 @@ I'm an engineering student passionate about building **full-stack web applicatio
 
 ---
 
-## 🎓 Education
+##  Education
 
 <small>
   
@@ -95,7 +95,7 @@ September 2021 – May 2025
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/dharita-patel-b18623250/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
