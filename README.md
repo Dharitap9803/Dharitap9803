@@ -19,12 +19,10 @@ Currently learning **React.js**
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
@@ -36,7 +34,6 @@ Currently learning **React.js**
 |--------|------------|
 | **Health Tracker Website** | A web platform for uploading and analyzing medical reports with health insights and dashboards. |
 | **PulseChat** | Real-time chat application with one-to-one and group messaging using sockets. |
-| **ML Mini Projects** | Small machine learning projects using Python & Scikit-learn. |
 
 ---
 
