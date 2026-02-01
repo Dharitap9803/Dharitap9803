@@ -45,25 +45,31 @@ I'm an engineering student passionate about building **full-stack web applicatio
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-##  GitHub Stats
+## 📊 GitHub Stats
+
 <table>
 <tr>
-<td width="50%">
-<small>
 
-![](https://github-readme-stats.vercel.app/api?username=Dharitap9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Dharitap9803&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharitap9803&theme=dark&hide_border=false&layout=compact)
+<td width="60%">
 
-</small>
+<img src="https://github-readme-stats.vercel.app/api?username=Dharitap9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dharitap9803&theme=dark&hide_border=false"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharitap9803&theme=dark&hide_border=false&layout=compact"/>
+
 </td>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="410"/>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="380"/>
+
 </td>
+
 </tr>
 </table>
 
----
+
 
 ##  Connect with Me
 <p align="left">
