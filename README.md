@@ -45,20 +45,6 @@ I'm an engineering student passionate about building **full-stack web applicatio
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-##  Projects
-<small>
-
-| Project | Description |
-|--------|------------|
-| **Health Tracker Website** | A web platform for uploading and analyzing medical reports with health insights and dashboards. |
-| **PulseChat** | Real-time chat application with one-to-one and group messaging using sockets. |
-
-</small>
-
----
-
 ##  GitHub Stats
 <table>
 <tr>
@@ -76,17 +62,6 @@ I'm an engineering student passionate about building **full-stack web applicatio
 </td>
 </tr>
 </table>
-
----
-
-##  Education
-
-<small>
-  
-**Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
-Indus Institute Of Technology & Engineering  
-September 2021 – May 2025
-</small>
 
 ---
 
